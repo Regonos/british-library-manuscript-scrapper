@@ -19,7 +19,7 @@ public class BritishLibraryManuscriptScrapperApplicationTests {
     private static final String SAVE_DIRECTORY = "/home/regonos/Desktop/kuba_nuty";
 
     @Test
-    public void x() throws IOException {
+    public void execute() {
 
         String bookName = "ms_mus._147";
 

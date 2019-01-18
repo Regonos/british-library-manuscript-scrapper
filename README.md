@@ -1,2 +1,2 @@
 # british-library-manuscript-scrapper
-Initial commit of british library manuscript scrapper.
+Draft of british library manuscript scrapper which was written in one evening... :)
